@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OSRS Calc:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/OSRS_Calc_jar</output-path>
+    <root id="archive" name="OSRS Calc.jar">
+      <element id="module-output" name="OSRS Calc" />
+      <element id="library" level="module" name="commons-io-2.5.jar" module-name="OSRS Calc" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/commons-io-2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
