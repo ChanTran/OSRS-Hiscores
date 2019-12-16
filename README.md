@@ -1,5 +1,9 @@
 # README #
 
+### Android Version ###
+
+The Android version can be found [here](https://github.com/ChanTran/Android-OSRS-Hiscores)
+
 ### What is this repository for? ###
 
 This program displays various information about a player's Oldschool Runescape profile.
